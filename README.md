@@ -2,7 +2,7 @@
 yuh
 
 they must have **amnesia**
-*they forgot that i'm* <span style="color:red">***him***text</span>.
+*they forgot that i'm* ***him***
 
 - witam serdecznie
 - najserderczniej

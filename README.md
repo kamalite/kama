@@ -1,7 +1,7 @@
 # kama
 yuh
 
-they must have **amnesia**
+they must have **amnesia** 
 *they forgot that i'm* ***him***
 
 - witam serdecznie
